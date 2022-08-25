@@ -20,3 +20,4 @@ const sumOfNaturalNumbers = (number) => {
 };
 
 console.log(sumOfNaturalNumbers(1000000000000000));
+d;
